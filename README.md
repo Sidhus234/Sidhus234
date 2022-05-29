@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Gursewak Singh Sidhu (Short - Guru/Sidhu)
+- 👋 Hi, I’m Gursewak Singh Sidhu (Guru/Sidhu)
 - 👀 I’m interested in Data Science, and Machine Learning domian
-- 🌱 I’m currently learning Python, and exploring Computer Vision
-- 💞️ I’m looking to collaborate on Data Science, and ML Projects
+- 🌱 I’m currently exploring Computer Vision and Deep Learning
+- 💞️ I’m looking forward to collaborate on Data Science, and ML Projects
 - 📫 You can reach me via email: sidhus234@gmail.com
 
 <!---
